@@ -12,7 +12,7 @@ To get started with the project files, you'll need to:
 
 [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
 
-This is the repository for [Python](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop target="_blank"), published by [Packt](https://www.packtpub.com/?utm_source=github target="_blank"). It contains all the supporting project files necessary to work through the course from start to finish.
+This is the repository for [Python](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## About Python
 You already know you want to learn Python, and a smarter way to learn Python 3 is to learn by doing. The Python Workshop [Python](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop target="_blank") focuses on building up your practical skills so that you can work towards building up your machine learning skills as a data scientist, write scripts that help automate your life and save you time, or even create your own games and desktop applications. You'll learn from real examples that lead to real results.
