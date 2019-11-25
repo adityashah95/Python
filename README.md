@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/Python.svg)](https://github.com/adityashah95/Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/Python.svg)](https://github.com/adityashah95/Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/Python/pulls)
-![Python](https://img.shields.io/badge/Python 3.6|3.7-blue)
+[Python](https://img.shields.io/badge/Python 3.6|3.7-blue)
 ## Requirements and Setup
 To get started with the project files, you'll need to:
 1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
