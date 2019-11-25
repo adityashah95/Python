@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/Python.svg)](https://github.com/adityashah95/Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/Python.svg)](https://github.com/adityashah95/Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/Python/pulls)
-[![Python](https://img.shields.io/badge/Python|3.6|3.7.svg)](https://github.com/adityashah95/Python/pulls)
+[![Python 3.6|3.7|3.8](https://img.shields.io/Python/Python.svg)](https://www.python.org/downloads/)
 
 
 ## Requirements and Setup
