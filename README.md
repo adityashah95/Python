@@ -4,11 +4,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/Python.svg)](https://github.com/adityashah95/Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/Python/pulls)
 [![Python 3.6|3.7|3.8](https://img.shields.io/github/Python/adityashah95/Python.svg)](https://www.python.org/downloads/)
-
-<a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 ## Requirements and Setup
 To get started with the project files, you'll need to:
 1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
