@@ -3,6 +3,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/Python.svg)](https://github.com/adityashah95/Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/Python.svg)](https://github.com/adityashah95/Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/Python/pulls)
+.. image:: https://badges.gitter.im/oauthlib/oauthlib.svg
+  :target: https://gitter.im/oauthlib/Lobby
+  :alt: Chat on Gitter
 
 ## Requirements and Setup
 To get started with the project files, you'll need to:
