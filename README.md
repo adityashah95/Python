@@ -1,3 +1,31 @@
+.. image:: https://travis-ci.org/oauthlib/oauthlib.svg?branch=master
+  :target: https://travis-ci.org/oauthlib/oauthlib
+  :alt: Travis
+.. image:: https://coveralls.io/repos/oauthlib/oauthlib/badge.svg?branch=master
+  :target: https://coveralls.io/r/oauthlib/oauthlib
+  :alt: Coveralls
+.. image:: https://img.shields.io/pypi/pyversions/oauthlib.svg
+  :target: https://pypi.org/project/oauthlib/
+  :alt: Download from PyPI
+.. image:: https://img.shields.io/pypi/l/oauthlib.svg
+  :target: https://pypi.org/project/oauthlib/
+  :alt: License
+.. image:: https://app.fossa.io/api/projects/git%2Bgithub.com%2Foauthlib%2Foauthlib.svg?type=shield
+   :target: https://app.fossa.io/projects/git%2Bgithub.com%2Foauthlib%2Foauthlib?ref=badge_shield
+   :alt: FOSSA Status
+.. image:: https://img.shields.io/readthedocs/oauthlib.svg
+  :target: https://oauthlib.readthedocs.io/en/latest/index.html
+  :alt: Read the Docs
+.. image:: https://badges.gitter.im/oauthlib/oauthlib.svg
+  :target: https://gitter.im/oauthlib/Lobby
+  :alt: Chat on Gitter
+
+
+.. image:: https://raw.githubusercontent.com/oauthlib/oauthlib/8d71b161fd145d11c40d55c9ab66ac134a303253/docs/logo/oauthlib-banner-700x192.png
+  :target: https://github.com/oauthlib/oauthlib/
+  :alt: OAuth + Python = OAuthlib Python Framework
+
+
 # Python
 [![GitHub issues](https://img.shields.io/github/issues/adityashah95/Python.svg)](https://github.com/adityashah95/Python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/Python.svg)](https://github.com/adityashah95/Python/network)
