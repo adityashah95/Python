@@ -10,6 +10,8 @@ To get started with the project files, you'll need to:
 2. Point Two <a href="https://clang.llvm.org/">LLVM clang</a>
 3. Point Three
 
+[The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
+
 This is the repository for [Python](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop target="_blank"), published by [Packt](https://www.packtpub.com/?utm_source=github target="_blank"). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## About Python
