@@ -6,8 +6,8 @@
 
 ## Requirements and Setup
 To get started with the project files, you'll need to:
-1. Install <a href="https://code.visualstudio.com/">VSCode IDE</a>
-2. Install <a href="https://clang.llvm.org/">LLVM clang</a>
+1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
+2. Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
 This is the repository for [Python](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
