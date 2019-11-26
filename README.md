@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/The-Python-Workshop.svg)](https://github.com/adityashah95/The-Python-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/The-Python-Workshop.svg)](https://github.com/adityashah95/The-Python-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/The-Python-Workshop/pulls)
-![pypi](https://img.shields.io/pypi/v/pybadges.svg)
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
 ## Requirements and Setup
 <a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://s3.amazonaws.com/thinkific-import/59347/OqlWsLhPRhSZWBelxqVI_The%20Python%20Workshop.png" alt="The Python Workshop" height="400px" width="320px" align="right" target="_blank"></a>
