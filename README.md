@@ -8,7 +8,7 @@
 This is the repository for [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://s3.amazonaws.com/thinkific-import/59347/OqlWsLhPRhSZWBelxqVI_The%20Python%20Workshop.png" alt="The Python Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
+<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Python%20Workshop.jpg" alt="The Python Workshop" height="340px" width="280px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
@@ -30,6 +30,3 @@ You already know you want to learn Python, and a smarter way to learn Python 3 i
 If you've found this repository useful, you might want to check out some of our other workshop titles:
 * [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
 * [The Java Workshop](https://courses.packtpub.com/courses/java?utm_source=github&utm_medium=repository&utm_campaign=9781838986698&utm_term=Java&utm_content=The%20Java%20Workshop)
-
-All suggestions/feedback for this workshop are welcome at workshops@packt.com
-
