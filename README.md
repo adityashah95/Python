@@ -30,3 +30,5 @@ If you've found this repository useful, you might want to check out some of our 
 * [The PHP Workshop](https://courses.packtpub.com/courses/php?utm_source=github&utm_medium=repository&utm_campaign=9781838648916&utm_term=PHP&utm_content=The%20PHP%20Workshop)
 * [The Java Workshop](https://courses.packtpub.com/courses/java?utm_source=github&utm_medium=repository&utm_campaign=9781838986698&utm_term=Java&utm_content=The%20Java%20Workshop)
 
+For any suggestions/feedback you can mail us at workshops@packt.com
+
