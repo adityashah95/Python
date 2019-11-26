@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/adityashah95/The-Python-Workshop.svg)](https://github.com/adityashah95/The-Python-Workshop/network)
 [![GitHub stars](https://img.shields.io/github/stars/adityashah95/The-Python-Workshop.svg)](https://github.com/adityashah95/The-Python-Workshop/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/The-Python-Workshop/pulls)
-[![Python 3.5 | 3.6 | 3.7 | 3.8](https://img.shields.io/badge/python-3.5 | 3.6 | 3.7 | 3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.5|3.6|3.7|3.8](https://img.shields.io/badge/python-3.5|3.6|3.7|3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ## Requirements and Setup
