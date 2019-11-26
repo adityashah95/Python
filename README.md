@@ -5,6 +5,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adityashah95/The-Python-Workshop/pulls)
 
 ## Requirements and Setup
+<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://s3.amazonaws.com/thinkific-import/59347/OqlWsLhPRhSZWBelxqVI_The%20Python%20Workshop.png" alt="Hands-On Data Analysis with Scala " height="250px" width="200px" align="right"></a>
+
 To get started with the project files, you'll need to:
 1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 2. Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
@@ -12,8 +14,6 @@ To get started with the project files, you'll need to:
 This is the repository for [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## About The Python Workshop
-<a href="https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop"><img src="https://s3.amazonaws.com/thinkific-import/59347/OqlWsLhPRhSZWBelxqVI_The%20Python%20Workshop.png" alt="Hands-On Data Analysis with Scala " height="250px" width="200px" align="right"></a>
-
 You already know you want to learn Python, and a smarter way to learn Python 3 is to learn by doing. [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop) focuses on building up your practical skills so that you can work towards building up your machine learning skills as a data scientist, write scripts that help automate your life and save you time, or even create your own games and desktop applications. You'll learn from real examples that lead to real results.
 
 ## What You Will Learn
