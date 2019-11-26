@@ -13,6 +13,7 @@ This is the repository for [The Python Workshop](https://courses.packtpub.com/co
 To get started with the project files, you'll need to:
 1. Install Anaconda (for [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/), [Mac](https://docs.anaconda.com/anaconda/install/mac-os/), [Linux](https://docs.anaconda.com/anaconda/install/linux/))
 2. Install [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+3. Install [Docker](https://docs.docker.com/docker-for-windows/install/)
 
 ## About The Python Workshop
 You already know you want to learn Python, and a smarter way to learn Python 3 is to learn by doing. [The Python Workshop](https://courses.packtpub.com/courses/python?utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop) focuses on building up your practical skills so that you can work towards building up your machine learning skills as a data scientist, write scripts that help automate your life and save you time, or even create your own games and desktop applications. You'll learn from real examples that lead to real results.
